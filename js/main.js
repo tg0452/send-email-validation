@@ -1,3 +1,4 @@
+alert("This project is only a simulation of sending email. No data is collected");
 
  eventListeners();
 //var
@@ -31,6 +32,8 @@ function resetForm(){
     rSError(emailToImput);
     rSError(matterImput);
     rSError(messageInput);
+    btnSend.disabled=true;
+    btnSend.classList.add('disabled');
     startApp();
 }
 
