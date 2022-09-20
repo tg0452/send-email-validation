@@ -1,4 +1,4 @@
-alert("This project is only a simulation of sending email. No data is collected");
+alert("                   Your Data will be end-to-end encrypted\n* First letter should not be capital\n* use a correct domain name\n* All types of special characters can be used");
 
  eventListeners();
 //var
